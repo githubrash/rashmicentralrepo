@@ -1,3 +1,9 @@
 This is my second file.
+<<<<<<< HEAD
 I will try branching on this file.
 This change is done in main file.
+=======
+I will try branching on this file
+Changes done in feature branch
+.
+>>>>>>> feature1
